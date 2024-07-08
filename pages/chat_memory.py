@@ -24,7 +24,7 @@ from langchain.chains.question_answering import load_qa_chain
 from langchain.llms import Clarifai
 
 # Clarifai Configuration
-CLARIFAI_PAT = 'b5d78d6de57f41f7ada7c9f89ce84646'  # Your Personal Access Token (PAT)
+CLARIFAI_PAT = os.environ["CLARIFAI_PAT"]  # access via key notation''  # Your Personal Access Token (PAT)
 USER_ID = 'toswari-ai'
 APP_ID = 'teddy-pdf-chat'
 
