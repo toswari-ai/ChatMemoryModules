@@ -1,3 +1,4 @@
+pypdf==4.2.0
 streamlit==1.22.0
 streamlit_pills==0.3.0
 streamlit-diff-viewer==0.0.2
@@ -7,9 +8,9 @@ clarifai==10.2.1
 streamlit-option-menu==0.3.12
 prettytable==3.10.0
 langchain==0.2.6
+streamlit-option-menu==0.3.12
 prettytable==3.10.0
 langchain-community==0.2.6 
 langchain-core==0.2.11 
 langsmith==0.1.84
 pydy==0.7.1
-pypdf==4.2.0
