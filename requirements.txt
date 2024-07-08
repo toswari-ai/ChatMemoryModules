@@ -11,3 +11,4 @@ langchain-community==0.2.6
 langchain-core==0.2.11 
 langsmith==0.1.84
 pydy==0.7.1
+pypdf==4.2.0
