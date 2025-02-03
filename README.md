@@ -1,8 +1,10 @@
 ![Clarifai logo](https://www.clarifai.com/hs-fs/hubfs/logo/Clarifai/clarifai-740x150.png?width=240)
 
-# Clarifai App Module Template
+# Descritiption
+This is using Langchain Memory + RAG with Clarifai as the LLM provider.
 
-This is a template repository to make it easy to get started creating a UI module with Clarifai.
+# Clarifai App Module Template
+This is created from template repository to make it easy to get started creating a UI module with Clarifai.
 
 
 ## To use this repo
